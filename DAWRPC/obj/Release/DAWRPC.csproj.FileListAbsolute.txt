@@ -1,0 +1,5 @@
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Release\DAWRPC.csproj.AssemblyReference.cache
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Release\DAWRPC.Form1.resources
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Release\DAWRPC.Properties.Resources.resources
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Release\DAWRPC.csproj.GenerateResource.cache
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Release\DAWRPC.csproj.CoreCompileInputs.cache

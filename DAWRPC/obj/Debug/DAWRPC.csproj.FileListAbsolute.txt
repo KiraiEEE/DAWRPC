@@ -46,3 +46,16 @@ D:\Banchou\DAWRPC\DAWRPC\obj\Debug\DAWRPC.csprojResolveAssemblyReference.cache
 D:\Banchou\DAWRPC\DAWRPC\obj\Debug\DAWRPC.Form1.resources
 D:\Banchou\DAWRPC\DAWRPC\obj\Debug\DAWRPC.Properties.Resources.resources
 D:\Banchou\DAWRPC\DAWRPC\obj\Debug\DAWRPC.csproj.GenerateResource.Cache
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\bin\Debug\DAWRPC.exe
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\bin\Debug\DAWRPC.pdb
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\bin\Debug\DiscordRPC.pdb
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\bin\Debug\DiscordRPC.xml
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Debug\DAWRPC.csproj.AssemblyReference.cache
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Debug\DAWRPC.Form1.resources
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Debug\DAWRPC.Properties.Resources.resources
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Debug\DAWRPC.csproj.GenerateResource.cache
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Debug\DAWRPC.csproj.CoreCompileInputs.cache
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Debug\DAWRPC.csproj.CopyComplete
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Debug\DAWRPC.exe
+C:\Users\benfe\OneDrive\Desktop\DAWRPC\DAWRPC\obj\Debug\DAWRPC.pdb

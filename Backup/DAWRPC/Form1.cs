@@ -8,7 +8,6 @@ using System.Text;
 using System.Windows.Forms;
 using System.Diagnostics;
 using DiscordRPC;
-using System.Runtime.InteropServices;
 
 namespace DAWRPC
 {
@@ -23,41 +22,10 @@ namespace DAWRPC
         DiscordRpcClient client;
 
         DateTime lastTime, curTime, startTimestamp;
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            WindowState= FormWindowState.Minimized;
-            notifyIcon.Visible = true;
-        }
-        private void notifyIcon_DoubleClick(object Sender, EventArgs e)
-        {
-            // Show the form when the user double clicks on the notify icon.
-
-            // Set the WindowState to normal if the form is minimized.
-            if (this.WindowState == FormWindowState.Minimized)
-                this.WindowState = FormWindowState.Normal;
-
-            // Activate the form.
-            this.Activate();
-            notifyIcon.Visible = false;
-        }
-
-        private void notifyIcon_MouseDoubleClick(object sender, MouseEventArgs e)
-        {
-
-        }
-
         TimeSpan lastTotalProcessorTime, curTotalProcessorTime;
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            notifyIcon.DoubleClick += new System.EventHandler(this.notifyIcon_DoubleClick);
-
             if (Process.GetProcessesByName("DAWRPC").Length > 1)
             {
                 timer1.Enabled = false;
@@ -419,22 +387,5 @@ namespace DAWRPC
 
             }
         }
-
-        public const int WM_NCLBUTTONDOWN = 0xA1;
-        public const int HTCAPTION = 0x2;
-        [DllImport("User32.dll")]
-        public static extern bool ReleaseCapture();
-        [DllImport("User32.dll")]
-        public static extern int SendMessage(IntPtr hWnd, int Msg, int wParam, int lParam);
-
-        private void OnMouseDown(object sender, MouseEventArgs e)
-        {
-            if (e.Button == MouseButtons.Left)
-            {
-                ReleaseCapture();
-                SendMessage(Handle, WM_NCLBUTTONDOWN, HTCAPTION, 0);
-            }
-        }
-
     }
 }
