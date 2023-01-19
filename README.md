@@ -26,7 +26,7 @@ This app uses the [Process](https://docs.microsoft.com/en-us/dotnet/api/system.d
 
 ## Dependencies used
 
-* .NET Framework 3.5
+* .NET Framework
 * [DiscordRPC](https://github.com/Lachee/discord-rpc-csharp) by Lachee
 * [Newtonsoft.Json](https://www.newtonsoft.com/json)
 * [System.Windows.Forms](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms)
