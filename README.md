@@ -15,6 +15,7 @@ It will show as the following:
 * REAPER
 * Bitwig Studio (fxxk Bitwig, you used more CPU and RAM than Ableton)
 * Studio One
+* //(LMMS SOON)
 
 ## Installation
 
@@ -33,11 +34,7 @@ This app uses the [Process](https://docs.microsoft.com/en-us/dotnet/api/system.d
 * [System.Diagnostics.Process](https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.process)
 * [System.Diagnostics.PerformanceCounter](https://docs.microsoft.com/en-us/dotnet/api/system.diagnostics.performancecounter)
 
-## Editing the source code
-
-Download the latest source code from this repository above and open `DAWRPC.sln` in your Visual Studio that supports .NET Framework 3.5. I used *Visual C# 2008 Express Edition* to make this application (i know, this is an old version but my computer can't run a higher one), and I suggest that you should use it (although i know that no one uses it anymore) to edit my application.
-
-### You can add a new DAW support using this method:
+### Adding a new DAW support:
 
 * **Step 1:** Go to your [Discord Developer Portal](https://discord.com/developers/applications) and create a new application with the DAW name you want to support.
 * **Step 2:** Go to your new application you have just created and click `Rich Presence -> App Assets`.
