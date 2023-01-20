@@ -17,9 +17,9 @@ It will show as the following:
 * Studio One
 * //(LMMS SOON)
 
-## Installation
+## How to use it?
 
-Download the latest release version [here](https://github.com/LilShieru/DAWRPC/releases), extract it and run the `DAWRPC.exe` executable file. Open any supported DAW and enjoy the result!
+Run the `DAWRPC.exe` executable file. Open any supported DAW and enjoy the result!
 
 ## How does it work?
 
