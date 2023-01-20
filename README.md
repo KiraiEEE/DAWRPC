@@ -73,14 +73,4 @@ with `YourDAWName` as the DAW variable you declared in the above step, `SomeCond
 
 You can see an example in the source code repository.
 
-* **Step 7:** Run the application and test it. After that, you can [send me a Pull Request](https://github.com/LilShieru/DAWRPC/compare) with your new added DAW supporting in the source code.
-
-## Contact the developer
-
-You can contact the developer by using these social networks:
-
-* Discord: Nico Levianth#5133 (which I am using the most)
-* Facebook: [Trà Phương Nam](https://www.facebook.com/Yonaka12)
-* Twitter: [@reallynotciel](https://www.twitter.com/reallynotciel) (currently inactive)
-* Instagram: [@reallynotciel](https://www.instagram.com/reallynotciel)
-* YouTube: [LilShieru](https://www.twitter.com/c/yutorimegami)
+* **Step 7:** Run the application and test it.
